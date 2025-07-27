@@ -1,0 +1,75 @@
+Nelson®
+
+從過去工作經驗中受到良好習慣的澆灌，秉持著外商體系的健全及教育，從2025年1月份訂立新目標要進入深度學習。
+每天撥攏一點時間無論上班、下班、休假都讓自己維持內化自我。
+#Prompt engineering
+#Vibe coding
+#Almost by my self (Think & Do)
+不同時期學習自定義不同方式的AI，或許不是最佳..但是正在飛速學習並快樂著。
+一切都在探索、質疑、反覆互動下，結合工作上的同仁碰上的問題當作一場遊戲任務概念來協助，透過CSIE知識。
+分析行為>交叉驗證>解決對策，不斷的嘗試學習新事物，如架構、框架、實作、探索過程碰到的框架缺點再嘗試換方法找到出口來解決問題。
+無論部門內外的同仁、夥伴們能為他們解決問題及服務人群，獲得別人的笑容及讚許，挺有成就感。
+
+這是我在透過AI語言模型下從 2025/04/22 開始深度學習Python，透過工作面臨大大小小的問題起因中，嘗試開發自學實作、整合展示頁。
+---
+
+## PMS 生產管理系統
+> 整合帳號登入、權限管理、SOP 上傳/生成/套用、異常追蹤、開發日誌等模組的完整 GUI 系統。
+
+- 原始碼：[PMS](https://github.com/bfc8g4v63/PMS)
+- 下載執行檔：[Release](https://github.com/bfc8g4v63/Tool/releases/download/v1.0.5/PMS_launcher.rar)
+- 使用畫面：  
+  ![PMS Screenshot](<img width="1173" height="773" alt="image" src="https://github.com/user-attachments/assets/f09a8ad7-fc12-492c-91c8-433d02b0b08d" />)
+
+---
+
+##每項工具皆具備開發目的說明、GitHub 原始碼連結與執行檔下載點，歡迎參考與實際試用。
+## EnumGuardian
+> 自動監控與清理 Windows 系統中異常 USB ENUM 裝置數量、COM DB肥大，防止生產測成被造成超陣列崩潰、匹配失敗...各種生產異常等。
+
+- 原始碼：[EnumGuardian](https://github.com/bfc8g4v63/Enum_Guardian)
+- 下載執行檔：[Release]Under development()
+- 使用畫面：  
+  ![EnumGuardian Screenshot](<img width="1173" height="773" alt="image" src="https://github.com/user-attachments/assets/03f5fe46-0db6-480a-9b7d-1ee3a409b0ef" />)
+
+---
+
+## Label Number Generator
+> 快速產生外箱與棧板序號標籤，支援 Excel .XLSX / .CSV 匯出與自定義格式 及VBA&Py_EXE版本
+
+- 原始碼：[Label_number_generator](https://github.com/bfc8g4v63/Label_number_generator)
+- 下載執行檔：[Release](https://github.com/bfc8g4v63/Label_number_generator/releases)
+- 使用畫面：  
+  ![Label Generator]
+(<img width="1345" height="937" alt="image" src="https://github.com/user-attachments/assets/0cd916b9-aa15-4c99-81a0-29714ae26a20" />)
+(<img width="418" height="730" alt="image" src="https://github.com/user-attachments/assets/2872890a-c6bd-4b51-bc12-883cf55b05d2" />)
+(<img width="900" height="219" alt="image" src="https://github.com/user-attachments/assets/50a1ce12-676b-4144-b090-a492fe61bab3" />)
+
+---
+
+## mmci_Generator_Tool
+> FW快速打包工具
+
+- 原始碼：[mmci_Generator_Tool](https://github.com/bfc8g4v63/mmci_Generator_Tool)
+- 下載執行檔：[Release](https://github.com/bfc8g4v63/mmci_Generator_Tool/releases)
+- 使用畫面：  
+  ![Label Generator]
+(<img width="1345" height="937" alt="image" src="https://github.com/user-attachments/assets/0cd916b9-aa15-4c99-81a0-29714ae26a20" />)
+
+---
+
+## netcheck
+> 區域網路（LAN）與網際網路快速連線檢測工具
+
+- 原始碼：[mmci_Generator_Tool](https://github.com/bfc8g4v63/netcheck)
+- 下載執行檔：[Release](https://github.com/bfc8g4v63/netcheck/releases)
+- 使用畫面：  
+  ![Label Generator]
+(<img width="972" height="508" alt="image" src="https://github.com/user-attachments/assets/77c7104c-587e-458e-bf0e-51ad9bbe7d6c" />)
+
+---
+
+## 關於我
+我是 Nelson Hsieh，一位熱衷於實作與自學的系統型工程師，致力於用 Python 工具解決工廠現場痛點。  
+歡迎參考我更多專案或透過 [LinkedIn](https://www.linkedin.com/in/nelson-hsieh) 聯絡我！
+
