@@ -41,9 +41,9 @@ Nelson®
 - 原始碼：[Label_number_generator](https://github.com/bfc8g4v63/Label_number_generator)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Label_number_generator/releases)
 - 使用畫面：  
-(<img width="1345" height="937" alt="image" src="https://github.com/user-attachments/assets/0cd916b9-aa15-4c99-81a0-29714ae26a20" />)
-(<img width="418" height="730" alt="image" src="https://github.com/user-attachments/assets/2872890a-c6bd-4b51-bc12-883cf55b05d2" />)
-(<img width="900" height="219" alt="image" src="https://github.com/user-attachments/assets/50a1ce12-676b-4144-b090-a492fe61bab3" />)
+<img width="1345" height="937" alt="image" src="https://github.com/user-attachments/assets/0cd916b9-aa15-4c99-81a0-29714ae26a20" />
+<img width="418" height="730" alt="image" src="https://github.com/user-attachments/assets/2872890a-c6bd-4b51-bc12-883cf55b05d2" />
+<img width="900" height="219" alt="image" src="https://github.com/user-attachments/assets/50a1ce12-676b-4144-b090-a492fe61bab3" />
 
 ---
 
@@ -53,7 +53,7 @@ Nelson®
 - 原始碼：[mmci_Generator_Tool](https://github.com/bfc8g4v63/mmci_Generator_Tool)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/mmci_Generator_Tool/releases)
 - 使用畫面：  
-(<img width="1345" height="937" alt="image" src="https://github.com/user-attachments/assets/0cd916b9-aa15-4c99-81a0-29714ae26a20" />)
+<img width="1345" height="937" alt="image" src="https://github.com/user-attachments/assets/0cd916b9-aa15-4c99-81a0-29714ae26a20" />
 
 ---
 
@@ -63,7 +63,7 @@ Nelson®
 - 原始碼：[mmci_Generator_Tool](https://github.com/bfc8g4v63/netcheck)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/netcheck/releases)
 - 使用畫面：  
-(<img width="972" height="508" alt="image" src="https://github.com/user-attachments/assets/77c7104c-587e-458e-bf0e-51ad9bbe7d6c" />)
+<img width="972" height="508" alt="image" src="https://github.com/user-attachments/assets/77c7104c-587e-458e-bf0e-51ad9bbe7d6c" />
 
 ---
 
