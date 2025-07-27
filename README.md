@@ -19,7 +19,7 @@ Nelson®
 - 原始碼：[PMS](https://github.com/bfc8g4v63/PMS)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Tool/releases/download/v1.0.5/PMS_launcher.rar)
 - 使用畫面：  
-  ![PMS Screenshot](<img width="1173" height="773" alt="image" src="https://github.com/user-attachments/assets/97cef0d8-2b8d-4673-87a6-ed910cceac61" />)
+  ![PMS Screenshot]()
 
 ---
 
@@ -71,5 +71,5 @@ Nelson®
 
 ## 關於我
 我是 Nelson Hsieh，一位熱衷於實作與自學的系統型工程師，致力於用 Python 工具解決工廠現場痛點。  
-聯絡我！[Portfolio](https://www.linkedin.com/in/nelson-hsieh) 
+聯絡我！[Portfolio](https://wfmjqeoh.manus.space/) 
 
