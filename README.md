@@ -53,7 +53,7 @@ Nelson®
 - 原始碼：[mmci_Generator_Tool](https://github.com/bfc8g4v63/mmci_Generator_Tool)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/mmci_Generator_Tool/releases)
 - 使用畫面：  
-<img width="1345" height="937" alt="image" src="https://github.com/user-attachments/assets/0cd916b9-aa15-4c99-81a0-29714ae26a20" />
+<img width="597" height="429" alt="image" src="https://github.com/user-attachments/assets/53e87e2f-65fe-459b-9b12-7fe0dc0ff17f" />
 
 ---
 
