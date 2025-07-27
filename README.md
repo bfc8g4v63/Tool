@@ -19,8 +19,8 @@ Nelson®
 - 原始碼：[PMS](https://github.com/bfc8g4v63/PMS)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Tool/releases/download/v1.0.5/PMS_launcher.rar)
 - 使用畫面：  
-  ![PMS Screenshot](![PMS](https://github.com/user-attachments/assets/773ff76c-bf6c-47ff-bddb-674c573fb5b3)
-)
+  ![PMS Screenshot](https://github.com/user-attachments/assets/299dd3dc-7642-48ec-9af1-4f12d0be1d69)
+
 
 ---
 
