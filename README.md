@@ -57,6 +57,16 @@ Nelson®
 
 ---
 
+## 
+> 測具管理v1.2.3T
+
+- 原始碼：[mmci_Generator_Tool](https://github.com/bfc8g4v63/Fixture-Management/releases/download/v1.2.3T/Castle.v1.2.3T.xlsm)
+- 下載執行檔：[Release](https://github.com/bfc8g4v63/Fixture-Management/releases)
+- 使用畫面：  
+<img width="1918" height="1029" alt="image" src="https://github.com/user-attachments/assets/1a533533-9b9e-4380-8d91-570d34f8b09a" />
+
+---
+
 ## netcheck
 > 區域網路（LAN）與網際網路快速連線檢測工具
 
