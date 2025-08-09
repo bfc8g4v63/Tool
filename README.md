@@ -81,5 +81,4 @@ Nelson®
 
 ## 關於我
 我是 Nelson Hsieh，一位熱衷於實作與自學的系統型工程師，致力於用 Python 工具解決工廠現場痛點。  
-聯絡我！[Portfolio](https://wfmjqeoh.manus.space/) 
-
+聯絡我！[Portfolio](https://bkwjghlg.manus.space）
