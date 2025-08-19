@@ -11,7 +11,7 @@ Nelson®
 ---
 
 ## PMS 生產管理系統
-> 整合帳號登入、權限管理、SOP 上傳/生成/套用、異常追蹤、開發日誌等模組的完整 GUI 系統。
+> 整合帳號登入、權限管理、SOP 上傳/生成/套用 及具備延伸性系統。
 
 - 原始碼：[PMS](https://github.com/bfc8g4v63/PMS)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Tool/releases/download/v1.0.5/PMS_launcher.rar)
