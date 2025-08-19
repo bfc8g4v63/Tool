@@ -50,7 +50,7 @@ Nelson®
 ## Fixture-Management
 > 測具管理v1.2.3T
 
-- 原始碼：[mmci_Generator_Tool](https://github.com/bfc8g4v63/Fixture-Management/releases/download/v1.2.3T/Castle.v1.2.3T.xlsm)
+- 原始碼：[Fixture-Managementv1.2.3T](https://github.com/bfc8g4v63/Fixture-Management/releases/download/v1.2.3T/Castle.v1.2.3T.xlsm)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Fixture-Management/releases)
 - 如檔案放在SMB 請額外下載 [allow_macro_from_internet.reg](https://github.com/bfc8g4v63/Tool/releases/download/v1.0.5/allow_macro_from_internet.reg)
 - 使用畫面：  
@@ -61,7 +61,7 @@ Nelson®
 ## netcheck
 > 區域網路（LAN）與網際網路快速連線檢測工具
 
-- 原始碼：[mmci_Generator_Tool](https://github.com/bfc8g4v63/netcheck)
+- 原始碼：[netcheck](https://github.com/bfc8g4v63/netcheck)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/netcheck/releases)
 - 使用畫面：  
 <img width="975" height="510" alt="image" src="https://github.com/user-attachments/assets/a5de6026-7ded-4d0a-a131-74e6b44aafa7" />
