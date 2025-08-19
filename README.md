@@ -72,7 +72,8 @@ Nelson®
 - 原始碼：[mmci_Generator_Tool](https://github.com/bfc8g4v63/netcheck)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/netcheck/releases)
 - 使用畫面：  
-<img width="972" height="508" alt="image" src="https://github.com/user-attachments/assets/77c7104c-587e-458e-bf0e-51ad9bbe7d6c" />
+<img width="975" height="510" alt="image" src="https://github.com/user-attachments/assets/a5de6026-7ded-4d0a-a131-74e6b44aafa7" />
+
 
 ---
 
