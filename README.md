@@ -1,5 +1,5 @@
 Nelson®
-AI deep learning
+
 ---
 
 ## PMS 生產管理系統
