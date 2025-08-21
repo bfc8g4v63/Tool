@@ -32,8 +32,6 @@ Nelson®
 - 如檔案放在SMB 請額外下載 [allow_macro_from_internet.reg](https://github.com/bfc8g4v63/Tool/releases/download/v1.0.5/allow_macro_from_internet.reg)
 - 使用畫面：  
 <img width="897" height="832" alt="image" src="https://github.com/user-attachments/assets/4d410b8d-a41a-40fa-bb62-159ce72d35f3" />
-<img width="418" height="730" alt="image" src="https://github.com/user-attachments/assets/2872890a-c6bd-4b51-bc12-883cf55b05d2" />
-<img width="900" height="219" alt="image" src="https://github.com/user-attachments/assets/50a1ce12-676b-4144-b090-a492fe61bab3" />
 
 ---
 
