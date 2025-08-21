@@ -31,7 +31,7 @@ Nelson®
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Label_number_generator/releases)
 - 如檔案放在SMB 請額外下載 [allow_macro_from_internet.reg](https://github.com/bfc8g4v63/Tool/releases/download/v1.0.5/allow_macro_from_internet.reg)
 - 使用畫面：  
-<img width="897" height="832" alt="image" src="https://github.com/user-attachments/assets/4d410b8d-a41a-40fa-bb62-159ce72d35f3" />
+<img width="899" height="832" alt="image" src="https://github.com/user-attachments/assets/300dc953-9915-4196-ad21-4bbb7d1e28f8" />
 
 ---
 
