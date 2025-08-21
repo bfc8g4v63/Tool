@@ -29,7 +29,7 @@ Nelson®
 
 - 原始碼：[Label_number_generator](https://github.com/bfc8g4v63/Label_number_generator)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Label_number_generator/releases)
-- 如檔案放在SMB 請額外下載 [allow_macro_from_internet.reg](https://github.com/bfc8g4v63/Tool/releases/download/v1.0.5/allow_macro_from_internet.reg)
+(https://github.com/bfc8g4v63/Tool/releases/download/v1.0.5/allow_macro_from_internet.reg)
 - 使用畫面：  
 <img width="899" height="832" alt="image" src="https://github.com/user-attachments/assets/300dc953-9915-4196-ad21-4bbb7d1e28f8" />
 
