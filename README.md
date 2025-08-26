@@ -12,8 +12,12 @@ Nelson®
 
 
 ---
+## Erase_COMDB
+> 手動清理 Windows 系統中異常 USB ENUM 裝置數量、COM DB肥大，各種生產異常等。
+- 下載執行檔：[Release](https://github.com/bfc8g4v63/Erase-COMDB/releases)
+- 使用畫面：  <img width="1914" height="1030" alt="image" src="https://github.com/user-attachments/assets/a06614a9-44b1-4728-bdce-33104896788a" />
 
-##每項工具皆具備開發目的說明、GitHub 原始碼連結與執行檔下載點，歡迎參考與實際試用。
+---
 ## EnumGuardian
 > 自動監控與清理 Windows 系統中異常 USB ENUM 裝置數量、COM DB肥大，防止生產測成被造成超陣列崩潰、匹配失敗...各種生產異常等。
 
