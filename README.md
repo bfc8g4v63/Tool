@@ -8,7 +8,8 @@ Nelson®
 - 原始碼：[PMS](https://github.com/bfc8g4v63/PMS)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Tool/releases/download/v1.0.5/PMS_launcher.rar)
 - 使用畫面：  
-<img width="1199" height="776" alt="image" src="https://github.com/user-attachments/assets/c65f0e45-ad8e-4035-aacb-62b7ea30520d" />
+<img width="1194" height="756" alt="image" src="https://github.com/user-attachments/assets/529c3029-4f6a-4080-8ec4-2c743ebb778e" />
+
 
 
 ---
