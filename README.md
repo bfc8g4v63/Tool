@@ -3,7 +3,8 @@ Nelson®
 ---
 
 ## PMS 生產管理系統
-> 整合帳號登入、權限管理、SOP 上傳/生成/套用 及具備延伸性系統。
+> 整合SOP資訊、SOP生成套用、帳號管理、操作紀錄 及具備延伸性系統。
+近期開發治具管理、治具記錄、治具申請、治具BOM
 
 - 原始碼：[PMS](https://github.com/bfc8g4v63/PMS)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Tool/releases/download/v1.0.5/PMS_launcher.rar)
