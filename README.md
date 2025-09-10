@@ -11,8 +11,6 @@ Nelson®
 - 使用畫面：  
 <img width="1194" height="756" alt="image" src="https://github.com/user-attachments/assets/529c3029-4f6a-4080-8ec4-2c743ebb778e" />
 
-
-
 ---
 ## Erase_COMDB
 
