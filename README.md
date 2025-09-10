@@ -26,7 +26,7 @@ Nelson®
 
 ---
 ## EnumGuardian
-> 自動監控與清理 Windows 系統中異常 USB ENUM 裝置數量、COM DB肥大，防止生產測成被造成超陣列崩潰、匹配失敗...各種生產異常等。
+> 自主監控與清理 Windows 系統中異常 USB ENUM 裝置數量、COM DB肥大，防止生產測成被造成超陣列崩潰、匹配失敗...各種生產異常等。
 
 - 原始碼：[EnumGuardian](https://github.com/bfc8g4v63/Enum_Guardian)
 - 下載執行檔：[Release]Under development()
@@ -67,8 +67,8 @@ Nelson®
 
 ---
 
-## netcheck
-> 區域網路（LAN）與網際網路快速連線檢測工具
+## Automatic_Internet_tool
+> 自主網段/網卡掃描與設定器
 
 - 原始碼：[netcheck](https://github.com/bfc8g4v63/Automatic_Internet_tool)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Automatic_Internet_tool/releases)
