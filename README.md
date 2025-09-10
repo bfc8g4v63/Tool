@@ -73,7 +73,7 @@ Nelson®
 - 原始碼：[netcheck](https://github.com/bfc8g4v63/Automatic_Internet_tool)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Automatic_Internet_tool/releases)
 - 使用畫面：  
-<img width="1957" height="2037" alt="image" src="https://github.com/user-attachments/assets/5b6174b2-1ce9-45e1-9195-d9f349610fab" />
+<img width="1953" height="2037" alt="image" src="https://github.com/user-attachments/assets/06ccf95a-e9f0-447c-b1b8-cdbd6f9101b4" />
 
 ---
 
