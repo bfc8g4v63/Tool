@@ -21,7 +21,7 @@ Nelson®
 - 執行USBDEVIEW 6.4 點選Vendor ID或Product ID排序，按住左鍵框選反藍大量異常Enum框選後點右鍵Uninstall。
 - 雙擊Lock_port>是。
 
-- 下載執行檔：[Release 含COMDB清除+Lock_port](https://github.com/bfc8g4v63/Erase-COMDB/releases)
+- 下載執行檔：[Release <COMDB、Lock_port>](https://github.com/bfc8g4v63/Erase-COMDB/releases)、[USBdeview](https://usbdeview.com/)
 - 使用畫面：  <img width="1914" height="1030" alt="image" src="https://github.com/user-attachments/assets/a06614a9-44b1-4728-bdce-33104896788a" />
 
 ---
