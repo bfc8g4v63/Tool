@@ -7,7 +7,7 @@ Nelson®
 近期開發治具管理、治具記錄、治具申請、治具BOM
 
 - 原始碼：[PMS](https://github.com/bfc8g4v63/PMS)
-- 下載執行檔：[Release](https://github.com/bfc8g4v63/Tool/releases/download/v1.0.5/PMS_launcher.rar)
+- 下載執行檔：[Release](https://github.com/bfc8g4v63/PMS/releases)
 - 使用畫面：  
 <img width="1194" height="756" alt="image" src="https://github.com/user-attachments/assets/529c3029-4f6a-4080-8ec4-2c743ebb778e" />
 
