@@ -26,7 +26,7 @@ Nelson®
 
 ---
 ## EnumGuardian
-> 自主監控與清理 Windows 系統中異常 USB ENUM 裝置數量、COM DB肥大，防止生產測成被造成超陣列崩潰、匹配失敗...各種生產異常等。
+> 自主監控與清理 Windows 系統中異常 USB ENUM 裝置數量、COM DB肥大，防止生產測程被造成超陣列崩潰、匹配失敗...各種生產異常等。
 
 - 原始碼：[EnumGuardian](https://github.com/bfc8g4v63/Enum_Guardian)
 - 下載執行檔：[Deferred release]
@@ -37,7 +37,7 @@ Nelson®
 
 ## Label Number Generator
 > 快速產生外箱與棧板序號標籤，支援 Excel .xlsx .xls .csv 匯出與自定義格式 及VBA&Py_EXE版本
-> 支持上齊、中正、上貿、立榮、睿均使用版本
+> 支持自營工廠及代工廠共用版本
 
 - 原始碼：[Label_number_generator](https://github.com/bfc8g4v63/Label_number_generator)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Label_number_generator/releases)
