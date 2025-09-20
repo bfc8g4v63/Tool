@@ -17,9 +17,9 @@ Nelson®
 > 手動清理 Windows 系統中異常 USB ENUM 裝置數量、COM DB肥大，各種生產異常等。
 
 - 執行方式：
-- 將"Admin清除ComDB"以右鍵管理員執行。
-- 執行USBDEVIEW 6.4 點選Vendor ID或Product ID排序，按住左鍵框選反藍大量異常Enum框選後點右鍵Uninstall。
-- 雙擊Lock_port>是。
+ 將"Admin清除ComDB"以右鍵管理員執行。
+ 執行USBDEVIEW 6.4 點選Vendor ID或Product ID排序，按住左鍵框選反藍大量異常Enum框選後點右鍵Uninstall。
+ 雙擊Lock_port>是。
 
 - 下載執行檔：[Release <COMDB、Lock_port>](https://github.com/bfc8g4v63/Erase-COMDB/releases)、[USBdeview](https://usbdeview.com/)
 - 使用畫面：  <img width="1914" height="1030" alt="image" src="https://github.com/user-attachments/assets/a06614a9-44b1-4728-bdce-33104896788a" />
