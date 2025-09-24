@@ -9,9 +9,10 @@ Nelson®
 - 原始碼：[PMS](https://github.com/bfc8g4v63/PMS)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/PMS/releases)
 - 使用畫面：  
-<img width="1194" height="756" alt="image" src="https://github.com/user-attachments/assets/529c3029-4f6a-4080-8ec4-2c743ebb778e" />
+<<img width="1918" height="1003" alt="image" src="https://github.com/user-attachments/assets/3590b9d0-4316-4ba6-9478-99b2199aedc0" />
 
 ---
+
 ## Erase_COMDB
 
 > 手動清理 Windows 系統中異常 USB ENUM 裝置數量、COM DB肥大，各種生產異常等。
