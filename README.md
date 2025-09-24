@@ -9,7 +9,7 @@ Nelson®
 - 原始碼：[PMS](https://github.com/bfc8g4v63/PMS)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/PMS/releases)
 - 使用畫面：  
-<<img width="1918" height="1003" alt="image" src="https://github.com/user-attachments/assets/3590b9d0-4316-4ba6-9478-99b2199aedc0" />
+<img width="1918" height="1003" alt="image" src="https://github.com/user-attachments/assets/3590b9d0-4316-4ba6-9478-99b2199aedc0" />
 
 ---
 
