@@ -8,6 +8,7 @@ Feture>>治具BOM(生產需求)、治具申請(電子簽核)、治具損耗(損�
 
 - 原始碼：[PMS](https://github.com/bfc8g4v63/PMS)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/PMS/releases)
+- 技術棧：Python、SQLite、Tkinter、Batch
 - 使用畫面：  
 <img width="1918" height="1003" alt="image" src="https://github.com/user-attachments/assets/3590b9d0-4316-4ba6-9478-99b2199aedc0" />
 
@@ -31,6 +32,7 @@ Feture>>治具BOM(生產需求)、治具申請(電子簽核)、治具損耗(損�
 
 - 原始碼：[EnumGuardian](https://github.com/bfc8g4v63/Enum_Guardian)
 - 下載執行檔：[Deferred release]
+- 技術棧：Python、Tkinter、json
 - 使用畫面：  
   ![EnumGuardian Screenshot](https://github.com/user-attachments/assets/ea652604-2c78-4aca-a8e0-8941b2985fa3)
 
@@ -42,6 +44,7 @@ Feture>>治具BOM(生產需求)、治具申請(電子簽核)、治具損耗(損�
 
 - 原始碼：[Label_number_generator](https://github.com/bfc8g4v63/Label_number_generator)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Label_number_generator/releases)
+- 技術棧：Python、PyQt6
 - 使用畫面：  
 <img width="899" height="832" alt="image" src="https://github.com/user-attachments/assets/300dc953-9915-4196-ad21-4bbb7d1e28f8" />
 
@@ -52,16 +55,18 @@ Feture>>治具BOM(生產需求)、治具申請(電子簽核)、治具損耗(損�
 
 - 原始碼：[mmci_Generator_Tool](https://github.com/bfc8g4v63/mmci_Generator_Tool)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/mmci_Generator_Tool/releases)
+- 技術棧：Python、PyQt6
 - 使用畫面：  
 <img width="597" height="429" alt="image" src="https://github.com/user-attachments/assets/53e87e2f-65fe-459b-9b12-7fe0dc0ff17f" />
 
 ---
 
 ## Fixture-Management
-> 測具管理v1.2.3T
+> 測具管理v1.2.3T (已整合進PMS)
 
 - 原始碼：[Fixture-Managementv1.2.3T](https://github.com/bfc8g4v63/Fixture-Management/releases/download/v1.2.3T/Castle.v1.2.3T.xlsm)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Fixture-Management/releases)
+- 技術棧：VBA
 - 如檔案放在SMB 請額外下載 [allow_macro_from_internet.reg](https://github.com/bfc8g4v63/Tool/releases/download/v1.0.5/allow_macro_from_internet.reg)
 - 使用畫面：  
 <img width="1918" height="1029" alt="image" src="https://github.com/user-attachments/assets/1a533533-9b9e-4380-8d91-570d34f8b09a" />
@@ -73,6 +78,7 @@ Feture>>治具BOM(生產需求)、治具申請(電子簽核)、治具損耗(損�
 
 - 原始碼：[Automatic_Internet_tool](https://github.com/bfc8g4v63/Automatic_Internet_tool)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Automatic_Internet_tool/releases)
+- 技術棧：python、cmd
 - 使用畫面：  
 <img width="1953" height="2037" alt="image" src="https://github.com/user-attachments/assets/06ccf95a-e9f0-447c-b1b8-cdbd6f9101b4" />
 
@@ -83,6 +89,7 @@ Feture>>治具BOM(生產需求)、治具申請(電子簽核)、治具損耗(損�
 
 - 原始碼：[netcheck](https://github.com/bfc8g4v63/netcheck)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/netcheck/releases)
+- 技術棧：cmd
 - 使用畫面：  
 <img width="975" height="510" alt="image" src="https://github.com/user-attachments/assets/a5de6026-7ded-4d0a-a131-74e6b44aafa7" />
 
