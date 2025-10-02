@@ -10,7 +10,8 @@ Feture>>治具BOM(生產需求)、治具申請(電子簽核)、治具損耗(損�
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/PMS/releases)
 - 技術棧：Python、SQLite、Tkinter、Batch
 - 使用畫面：  
-<img width="1918" height="1003" alt="image" src="https://github.com/user-attachments/assets/3590b9d0-4316-4ba6-9478-99b2199aedc0" />
+<img width="1197" height="778" alt="image" src="https://github.com/user-attachments/assets/e40d8e09-94e6-464b-9f62-11205bee5fb1" />
+
 
 ---
 
