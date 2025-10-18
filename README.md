@@ -3,9 +3,9 @@ Nelson®
 ---
 
 ## PMS 生產管理系統
-> Completed Features : SOP資訊、SOP生成、SOP紀錄、治具管理、治具紀錄、帳號管理、改版歷程及具備延伸性系統
+> Completed Features : SOP資訊、SOP生成、SOP紀錄、治具管理、治具紀錄、帳號管理、改版歷程、治具BOM
 > 
-> Upcoming Features : 治具BOM(生產需求)、治具申請(電子簽核)、治具損耗(損耗分析)、異常平台(異常追蹤)
+> Upcoming Features : 、治具申請(電子簽核)、治具損耗(損耗分析)、異常平台(異常追蹤)
 
 - 原始碼：[PMS](https://github.com/bfc8g4v63/PMS)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/PMS/releases)
