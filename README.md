@@ -49,7 +49,7 @@ Nelson®
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Label_number_generator/releases)
 - 技術棧：Python、PyQt6
 - 使用畫面：  
-<img width="899" height="832" alt="image" src="https://github.com/user-attachments/assets/300dc953-9915-4196-ad21-4bbb7d1e28f8" />
+<img width="2556" height="1527" alt="image" src="https://github.com/user-attachments/assets/3453cd9d-b35c-40b6-821a-39000dbdad8a" />
 
 ---
 
