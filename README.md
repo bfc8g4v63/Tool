@@ -11,9 +11,7 @@ Nelson®
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/PMS/releases)
 - 技術棧：Python、SQLite、Tkinter、Batch
 - 使用畫面：  
-<img width="1196" height="779" alt="image" src="https://github.com/user-attachments/assets/7bdee08f-144f-443b-b422-53eedae25a96" />
-
-
+<img width="2558" height="1525" alt="image" src="https://github.com/user-attachments/assets/fb5a9074-1c0c-485e-a890-bb698e48191b" />
 
 ---
 
