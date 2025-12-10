@@ -3,7 +3,7 @@ Nelson®
 ---
 
 ## PMS 生產管理系統
-> Completed Features : SOP資訊、SOP生成、SOP紀錄、治具管理、治具紀錄、測試BOM(70%)、帳號管理、改版歷程
+> Completed Features : SOP資訊、SOP生成、SOP紀錄、治具管理、治具紀錄、測試BOM、帳號管理、改版歷程
 > 
 > Upcoming Features : 、治具申請(需求清單)、治具損耗(損耗分析)、異常平台(異常追蹤)
 
@@ -36,6 +36,14 @@ Nelson®
 - 技術棧：Python、Tkinter、json
 - 使用畫面：  
   ![EnumGuardian Screenshot](https://github.com/user-attachments/assets/ea652604-2c78-4aca-a8e0-8941b2985fa3)
+---
+
+## PMS_Safe_stock_Guardian 
+
+- 技術棧：Python、PyQt6
+- 使用畫面：  
+<img width="617" height="549" alt="image" src="https://github.com/user-attachments/assets/0eb41532-8eee-46b3-a990-9925fc394eaa" />
+
 
 ---
 
