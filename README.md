@@ -15,6 +15,14 @@ Nelson®
 
 ---
 
+## PMS_Safe_stock_Guardian 
+
+- 技術棧：Python、PyQt6
+- 使用畫面：  
+<img width="617" height="549" alt="image" src="https://github.com/user-attachments/assets/0eb41532-8eee-46b3-a990-9925fc394eaa" />
+
+---
+
 ## Erase_COMDB
 
 > 手動清理 Windows 系統中異常 USB ENUM 裝置數量、COM DB肥大，各種生產異常等。
@@ -36,14 +44,6 @@ Nelson®
 - 技術棧：Python、Tkinter、json
 - 使用畫面：  
   ![EnumGuardian Screenshot](https://github.com/user-attachments/assets/ea652604-2c78-4aca-a8e0-8941b2985fa3)
----
-
-## PMS_Safe_stock_Guardian 
-
-- 技術棧：Python、PyQt6
-- 使用畫面：  
-<img width="617" height="549" alt="image" src="https://github.com/user-attachments/assets/0eb41532-8eee-46b3-a990-9925fc394eaa" />
-
 
 ---
 
