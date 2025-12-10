@@ -16,18 +16,20 @@ Nelson®
 
 ---
 
-## PMS_Safe_stock_Guardian 
-> 安庫通知系統；可自定義收件人及週期性
+## PMS_Safe_stock_Guardian PMS 安庫通知系統
+
+> 可自定義收件人及週期性
+
 - 技術棧：Python、PyQt6、SMTP、TLS、SSL
 - 使用畫面：  
 <img width="617" height="549" alt="image" src="https://github.com/user-attachments/assets/0eb41532-8eee-46b3-a990-9925fc394eaa" />
 
 ---
 
-## Erase_COMDB
+## Erase_COMDB 清COMDB工具
 
 > 手動清理 Windows 系統中異常 USB ENUM 裝置數量、COM DB肥大，各種生產異常等。
-
+- 技術棧：Batch
 - 執行方式：
 - 將"Admin清除ComDB"以右鍵管理員執行。
 - 執行USBDEVIEW 6.4 點選Vendor ID或Product ID排序，按住左鍵框選反藍大量異常Enum框選後點右鍵Uninstall。
@@ -37,7 +39,7 @@ Nelson®
 - 使用畫面：  <img width="1914" height="1030" alt="image" src="https://github.com/user-attachments/assets/a06614a9-44b1-4728-bdce-33104896788a" />
 
 ---
-## EnumGuardian
+## EnumGuardian Enum守衛
 > 自主監控與清理 Windows 系統中異常 USB ENUM 裝置數量、COM DB肥大，防止生產測程被造成超陣列崩潰、匹配失敗...各種生產異常等。
 
 - 原始碼：[EnumGuardian](https://github.com/bfc8g4v63/Enum_Guardian)
@@ -48,9 +50,9 @@ Nelson®
 
 ---
 
-## Label Number Generator
+## Label Number Generator 多元標籤產生器及標籤掃描比對
 > 快速產生外箱與棧板序號標籤，支援 Excel .xlsx .xls .csv 匯出與自定義格式 及VBA&Py_EXE版本
-> 支持自營工廠及代工廠共用版本
+> 支持自營工廠及代工廠共用版本；順號、非順號
 
 - 原始碼：[Label_number_generator](https://github.com/bfc8g4v63/Label_number_generator)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Label_number_generator/releases)
@@ -60,8 +62,8 @@ Nelson®
 
 ---
 
-## mmci_Generator_Tool
-> FW快速打包工具
+## mmci_Generator_Tool FW快速打包工具
+> 支持拖曳及指定快速打包FW
 
 - 原始碼：[mmci_Generator_Tool](https://github.com/bfc8g4v63/mmci_Generator_Tool)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/mmci_Generator_Tool/releases)
@@ -83,8 +85,8 @@ Nelson®
 
 ---
 
-## Automatic_Internet_tool
-> 自主網段/網卡掃描與設定器
+## Automatic_Internet_tool 自主網段/網卡掃描與設定器
+> 檢查來源、掃描網段、一鍵設定
 
 - 原始碼：[Automatic_Internet_tool](https://github.com/bfc8g4v63/Automatic_Internet_tool)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/Automatic_Internet_tool/releases)
@@ -94,7 +96,7 @@ Nelson®
 
 ---
 
-## netcheck
+## netcheck 連線檢測工具
 > 區域網路（LAN）與網際網路快速連線檢測工具
 
 - 原始碼：[netcheck](https://github.com/bfc8g4v63/netcheck)
