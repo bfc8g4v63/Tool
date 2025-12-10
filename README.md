@@ -2,7 +2,8 @@ Nelson®
 
 ---
 
-## PMS 生產管理系統
+## PMS
+> 生產管理系統
 > Completed Features : SOP資訊、SOP生成、SOP紀錄、治具管理、治具紀錄、測試BOM、帳號管理、改版歷程
 > 
 > Upcoming Features : 、治具申請(需求清單)、治具損耗(損耗分析)、異常平台(異常追蹤)
@@ -16,8 +17,8 @@ Nelson®
 ---
 
 ## PMS_Safe_stock_Guardian 
-
-- 技術棧：Python、PyQt6
+> 安庫通知系統；可自定義收件人及週期性
+- 技術棧：Python、PyQt6、SMTP
 - 使用畫面：  
 <img width="617" height="549" alt="image" src="https://github.com/user-attachments/assets/0eb41532-8eee-46b3-a990-9925fc394eaa" />
 
