@@ -20,7 +20,7 @@ Nelson®
 
 > 可自定義收件人及週期性
 
-- 技術棧：Python、PyQt6、SMTP、TLS、SSL
+- 技術棧：Python、PyQt6、SMTP、TLS/SSL
 - 使用畫面：  
 <img width="617" height="549" alt="image" src="https://github.com/user-attachments/assets/0eb41532-8eee-46b3-a990-9925fc394eaa" />
 
