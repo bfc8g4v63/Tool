@@ -11,7 +11,16 @@ Nelson®
 - 原始碼：[PMS](https://github.com/bfc8g4v63/PMS)
 - 下載執行檔：[Release](https://github.com/bfc8g4v63/PMS/releases)
 - 技術棧：Python、SQLite、Tkinter、Batch
-- 使用畫面：  
+- 使用畫面：
+![PMS_information_o](https://github.com/user-attachments/assets/2e374cf3-c20b-40af-a565-bca67199602d)
+![PMS_generator](https://github.com/user-attachments/assets/7bc08d41-9675-4c60-9cfe-b7725104dbfe)
+![PMS_fixture_management_tab](https://github.com/user-attachments/assets/765b45d5-db66-45ad-ac52-f45df9fe14bd)
+![PMS_fixture_logs_tab](https://github.com/user-attachments/assets/9af876f6-8935-43ba-8111-119474ec6de4)
+![PMS_fixture_bom_tab](https://github.com/user-attachments/assets/e2256317-9d71-46f8-a83e-5299aec84a34)
+![PMS_build_log_view_tab_f](https://github.com/user-attachments/assets/a2c92ec0-9c1f-4a81-886e-1dd1d0dc996c)
+![PMS_account_management_tab](https://github.com/user-attachments/assets/352b9305-03dd-40ff-91d9-71c86dc133b7)
+
+
 <img width="2394" height="1392" alt="image" src="https://github.com/user-attachments/assets/ded14a25-c144-4e40-b467-9671c773d6f1" />
 
 ---
